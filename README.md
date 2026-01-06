@@ -1,5 +1,9 @@
 # 👋 Hej, jestem Wojtek
 
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
 🧠 **Programista / Hardware hacker / System builder**  
 ⚙️ C++, embedded, sieci, AI, reverse engineering  
 🖤 Buduję rzeczy, które *powinny* działać — i takie, które **nie powinny, ale działają**
