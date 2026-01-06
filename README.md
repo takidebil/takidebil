@@ -1,48 +1,11 @@
-<svg width="470" height="140" viewBox="0 0 470 140" xmlns="http://www.w3.org/2000/svg">
+<picture>
+  <!-- DARK MODE -->
+  <source srcset="./dark-mode.png" media="(prefers-color-scheme: dark)">
+  
+  <!-- LIGHT MODE (domyślny) -->
+  <img src="./light-mode.png" alt="Profil">
+</picture>
 
-  <style>
-    /* Light mode */
-    .border { stroke: #d0d7de; }
-    .name { fill: #1f2328; }
-    .sub { fill: #656d76; }
-
-    /* Dark mode */
-    @media (prefers-color-scheme: dark) {
-      .border { stroke: #30363d; }
-      .name { fill: #e6edf3; }
-      .sub { fill: #8b949e; }
-    }
-  </style>
-
-  <!-- Ramka -->
-  <rect x="1" y="1" width="468" height="138" rx="12"
-        fill="none" stroke-width="2" class="border"/>
-
-  <!-- Avatar -->
-  <defs>
-    <clipPath id="circle">
-      <circle cx="70" cy="70" r="40"/>
-    </clipPath>
-  </defs>
-
-  <image href="https://avatars.githubusercontent.com/u/94719224?v=4"
-         x="30" y="30" width="80" height="80"
-         clip-path="url(#circle)"/>
-
-  <!-- Tekst -->
-  <text x="130" y="68" font-size="28" font-weight="700"
-        font-family="JetBrains Mono, monospace"
-        class="name">
-    _TakiDebil_
-  </text>
-
-  <text x="130" y="98" font-size="18"
-        font-family="JetBrains Mono, monospace"
-        class="sub">
-    takidebil · Jebać/Disa
-  </text>
-
-</svg>
 
 
 <p align="center">
