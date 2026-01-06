@@ -1,3 +1,11 @@
+<div style="border: 1px solid #7a7c7e; padding: 16px; border-radius: 12px; width: 340px; height: 110px; display: flex; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/94719224?v=4" style="border-radius: 50%; width: 90px; height: 90px;">
+  <div style="margin-left: 20px;">
+    <p style="font-family: JetBrains Mono, monospace; font-size: 28px; font-weight: bold; margin: 0;"> _TakiDebil_ </p>
+    <p style="font-family: JetBrains Mono, monospace; font-size: 18px; margin: 6px 0 0 0; opacity: 0.75;"> takidebil · Jebać/Disa </p>
+  </div>
+</div>
+
 <p align="center">
   <em>Programista / Twórca systemów embedded i AI</em>
 </p>
