@@ -1,9 +1,6 @@
 <picture>
-  <!-- DARK MODE -->
-  <source srcset="./dark-mode.png" media="(prefers-color-scheme: dark)">
-  
-  <!-- LIGHT MODE (domyślny) -->
-  <img src="./light-mode.png" alt="Profil">
+  <source srcset="./images/dark-mode.png" media="(prefers-color-scheme: dark)">
+  <img src="./images/light-mode.png" alt="Profil">
 </picture>
 
 
