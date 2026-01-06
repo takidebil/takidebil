@@ -19,7 +19,7 @@
 ---
 
 ---
-![Snake animation](https://github.com/takidebil/takidebil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/takidebil/takidebil/blob/dist/github-snake.svg)
 ---
 
 
