@@ -1,9 +1,48 @@
-# 👋 Hej, jestem Wojtek
+<!--
+██╗    ██╗ ██████╗ ██╗████████╗ ██████╗ ██████╗ ██╗   ██╗███████╗███████╗
+██║    ██║██╔═══██╗██║╚══██╔══╝██╔═══██╗██╔══██╗██║   ██║██╔════╝██╔════╝
+██║ █╗ ██║██║   ██║██║   ██║   ██║   ██║██████╔╝██║   ██║█████╗  ███████╗
+██║███╗██║██║   ██║██║   ██║   ██║   ██║██╔══██╗╚██╗ ██╔╝██╔══╝  ╚════██║
+╚███╔███╔╝╚██████╔╝██║   ██║   ╚██████╔╝██║  ██║ ╚████╔╝ ███████╗███████║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝
+                                                                       
+A clean, modernist, high-signal README for engineers who ship.
+-->
 
+<div align="center">
+
+# 🖤 **Wojtek**  
+### *Systems Architect • Hardware Hacker • AI Tinkerer*
+
+> *"I don’t ask if it’s possible.  
+> I ask how far we can push it —* ***before it catches fire.***"  
+
+<br>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+</div>
 
+<br>
+
+## 🧠 Profile
+
+| Domain               | Stack & Focus                                                                 |
+|----------------------|-------------------------------------------------------------------------------|
+| **Systems**          | `C++20` • bare-metal • RTOS • custom BSPs • low-latency networking           |
+| **Hardware Hacking** | FPGA (Lattice iCE40) • RF (LoRa, NFC, RFID) • PCB design (KiCad, Altium)    |
+| **AI/Edge**          | Whisper.cpp • ONNX runtime • quantized LLMs • sensor fusion pipelines        |
+| **Philosophy**       | *Less abstraction, more control.* Prefer registers over ORM.                  |
+
+<br>
+
+## 🛠️ Core Stack
+
+[ SYSTEMS ]      →  C++ • Rust • x86/ARM/RISC-V assembly • Linux kernel modules  
+[ EMBEDDED ]     →  ESP32-S3 • RP2040 • STM32H7 • nRF52 • Zephyr • bare-metal  
+[ INFRA ]        →  NixOS • Podman • WireGuard • pfSense • Prometheus/Grafana  
+[ AI/ML ]        →  ONNX • TensorFlow Lite • Whisper.cpp • Llama.cpp • OpenVINO  
+[ TOOLING ]      →  GDB (JTAG) • Logic Analyzers • Saleae API • Ghidra scripts  
 🧠 **Programista / Hardware hacker / System builder**  
 ⚙️ C++, embedded, sieci, AI, reverse engineering  
 🖤 Buduję rzeczy, które *powinny* działać — i takie, które **nie powinny, ale działają**
@@ -80,15 +119,15 @@ Jestem tym, który woli:
 
 ## 📈 GitHub Snake Animation
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/takidebil/takidebil/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📊 Statystyki
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_WPISZ_NICK&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_WPISZ_NICK&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=takidebil&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takidebil&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -96,9 +135,9 @@ Jestem tym, który woli:
 ## 📫 Kontakt
 
 <p align="center">
-  ✉️ **twojemail@example.com**  
-  💬 Discord: **nick#0000**  
-  🔗 GitHub: **@TU_WPISZ_NICK**
+  ✉️ **takidebil@proton.me**  
+  💬 Discord: **_taki.debil_**  
+  🔗 GitHub: **@takidebil**
 </p>
 
 ---
