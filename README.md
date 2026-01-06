@@ -15,6 +15,8 @@
 </div>
 
 ---
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=takidebil&show_icons=true&theme=gruvbox)
+---
 
 ## 🖤 About
 
