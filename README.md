@@ -1,13 +1,15 @@
-<picture>
+<div align="center">
+  <picture>
   <source srcset="./images/dark-mode.png" media="(prefers-color-scheme: dark)">
-  <img src="./images/light-mode.png" alt="Profil">
+  <img src="./images/light-mode.png" alt="Profil" style="width: 70%;" align="center">
+
+  <p>
+    <em>Programista / Twórca systemów embedded i AI</em>
+  </p>
 </picture>
+</div>
 
-
-
-<p align="center">
-  <em>Programista / Twórca systemów embedded i AI</em>
-</p>
+---
 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Buduję+systemy+od+zera.;Hardware+i+AI+w+jednym.;Eksperymentuję+bez+ograniczeń." />
