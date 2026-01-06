@@ -29,8 +29,7 @@ zainteresowania:
   [
     "Web Development",
     "Machine Learning",
-    "Game Development",
-    "DevOps"
+    "Game Development"
   ]
   
 w_trakcie_nauki:
