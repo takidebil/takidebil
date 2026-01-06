@@ -1,15 +1,35 @@
-# Hi 👋, I'm Wojtek
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Buduję+systemy+od+zera.;Hardware+i+AI+w+jednym.;Eksperymentuję+bez+ograniczeń." />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Znajdź mnie tutaj:</h3>
 <p align="left">
-<a href="https://github.com/takidebil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="takidebil" height="30" width="40" /></a>
-<a href="https://instagram.com/_taki.debil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taki.debil_" height="30" width="40" /></a>
+<a href="https://github.com/takidebil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="takidebil" height="30" width="40" /></a>
+<a href="https://instagram.com/_taki.debil_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taki.debil_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+<h3 align="left">Języki programowania:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/pl/docs/Web/C" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/pl/docs/Web/Csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/pl/docs/Web/Python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takidebil&show_icons=true&locale=en&layout=compact" alt="takidebil" /></p>
+<h3 align="left">Frontend / Web:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/pl/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/pl/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takidebil&show_icons=true&locale=en" alt="takidebil" /></p>
+<h3 align="left">AI / ML:</h3>
+<p align="left"> 
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="HuggingFace" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/> </a>
+<a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="40" height="40"/> </a>
+</p>
 
+<h3 align="left">Systemy / DevOps:</h3>
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> </a>
+</p>
