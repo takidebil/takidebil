@@ -1,7 +1,9 @@
+<p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Buduję+systemy+od+zera.;Hardware+i+AI+w+jednym.;Eksperymentuję+bez+ograniczeń." />
+</p>
 
 <h3 align="left">Znajdź mnie tutaj:</h3>
-<p align="left">
+<p align="center"> 
 <a href="https://github.com/takidebil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="takidebil" height="30" width="40" /></a>
 <a href="https://instagram.com/_taki.debil_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taki.debil_" height="30" width="40" /></a>
 </p>
